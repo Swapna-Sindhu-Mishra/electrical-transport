@@ -5,9 +5,9 @@ Output: Fraunhofer, Fitted Fraunhofer, Fit Parameters
 Last edited on 07.10.2020 by Swapna Sindhu Mishra
 """
 
-folderpath = '//Data/' #File Location?
-title = "Ni(1.2)/Ru(0.9)/Ni(1.2)"
-sample='2516_1B_P6' #File name?
+folderpath = '' #File Location?
+title = ""
+sample='' #File name?
 QD=6 #Which QD is being used?
 
 import numpy as np
